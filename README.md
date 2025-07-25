@@ -12,9 +12,12 @@ An e-commerce web application for Paradise Nursery, enabling users to browse, se
 - [Contact](#contact)
 
 ## Features
-- Browse a wide variety of plants
-- Add plants to shopping cart
-- View and manage cart items
+- Browse a wide variety of plants  
+  ![Landing Page](docs/images/landing.png)
+- View product listings  
+  ![Product List Page](docs/images/productlist.png)
+- Add plants to shopping cart and view cart  
+  ![Cart Page](docs/images/cart.png)
 - Fast performance with Vite
 
 ## Getting Started
@@ -71,3 +74,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 - Maintainer: mdabbaskazim
 - Email: [mdabbaskazim@gmail.com]
+
+# Note
+> This project was forked from [e-plantShopping](https://github.com/ibm-developer-skills-network/e-plantShopping).
