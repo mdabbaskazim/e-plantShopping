@@ -42,9 +42,11 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ## Folder Structure
 ```
 e-plantShopping/
+├── docs/             # Documentation assets (screenshots, logos, etc.)
+│   └── images/       # Images used in README and docs
 ├── public/           # Static assets
 ├── src/              # Source code
-│   ├── assets/       # Images and icons
+│   ├── assets/       # Images and icons for app
 │   ├── AboutUs.jsx   # About Us page
 │   ├── CartItem.jsx  # Cart item component
 │   ├── CartSlice.jsx # Redux slice for cart
