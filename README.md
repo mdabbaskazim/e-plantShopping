@@ -73,9 +73,5 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-- Maintainer: mdabbaskazim
-- Email: [mdabbaskazim@gmail.com]
-
 # Note
 > This project was forked from [e-plantShopping](https://github.com/ibm-developer-skills-network/e-plantShopping).
